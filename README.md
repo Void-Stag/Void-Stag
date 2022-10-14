@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Heather
 - 👀 I’m interested in different areas of technology e.g programming, hardware maintenance, etc.
 - 🌱 I’m currently a Student @ DMU studying Applied Computing
+- 📫 My account will list every program I have created - Still working to upload everything!
 
 
 <!---
