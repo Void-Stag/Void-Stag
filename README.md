@@ -16,6 +16,7 @@ I am currently seeking a graduate job in the Tech industry as I am thrilled to a
 ### Markup Languages/ Other
 - HTML
 - CSS
+- SQL
 
 
 ### Libraries & Frameworks
@@ -33,7 +34,7 @@ I am currently seeking a graduate job in the Tech industry as I am thrilled to a
 ### Skills
 - Database management
 - Web Development
-- Andriod App Devlopment
+- Android App Devlopment
 - Hardware Maintenance
 
 ## :speech_balloon: Reach out to me on [LinkedIn](https://www.linkedin.com/in/heathersmith122/)
