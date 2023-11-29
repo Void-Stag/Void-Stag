@@ -7,14 +7,17 @@ I am currently learnign new technologies and languages. I am aiming to learn how
 I am currently seeking a graduate job in the Tech industry as I am thrilled to apply my skills into practice and network with other people.
 
 ### Programming Languages
-- HTML
-- CSS
 - JavaScript
 - C#
 - Python
 - Kotlin
-- LaTeX
-  
+
+ 
+### Markup Languages/ Other
+- HTML
+- CSS
+
+
 ### Libraries & Frameworks
 - Flask
 - Tkinter
