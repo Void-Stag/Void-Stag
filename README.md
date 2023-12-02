@@ -3,7 +3,7 @@ I am currently a Third year Computing student @ DMU.
 I have a huge interest in different areas of technology and would love to experience it hands on.
 
 ## 🌱More About Me!
-I am currently learnign new technologies and languages. I am aiming to learn how to use Django Framework and ReactJS for my Final Year Project.
+I am currently learning new technologies and languages. I am currently using Python and Flask for my Final Year Project.
 I am currently seeking a graduate job in the Tech industry as I am thrilled to apply my skills into practice and network with other people.
 
 ### Programming Languages
