@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Heather
-I am currently a Third year Computing student @ DMU.
+I am a Third year Computing student @ DMU.
 I have a huge interest in different areas of technology and would love to experience it hands on.
+I am interested in both Web Development and Software Development, although I will not hesitate to develop interest in other areas such as Mobile Development.
 
 ## 🌱More About Me!
 I am currently learning new technologies and languages. I am currently using Python and Flask for my Final Year Project.
