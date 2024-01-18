@@ -4,7 +4,7 @@ I have a huge interest in different areas of technology and would love to experi
 I am interested in both Web Development and Software Development, although I will not hesitate to develop interest in other areas such as Mobile Development.
 
 ## 🌱More About Me!
-I am currently learning new technologies and languages. I am currently using Python and Flask for my Final Year Project.
+This year, I am undertaking Web Development, Software Developemnt and Information Technologies for Development (IT4D). I am currently using Python and Flask for my Final Year Project, which is to develop a website application.
 I am currently seeking a graduate job in the Tech industry as I am thrilled to apply my skills into practice and network with other people.
 
 ### Programming Languages
