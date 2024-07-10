@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Heather
-I am an Applied Computing (Hons) Graduate. I previously studied at DMU.
+I am an Applied Computing(with Hons) Graduate. I previously studied at DMU.
 
 I have a huge interest in different areas of technology and would love to experience it hands on.
 I am interested in both Web Development and Software Development, although I will not hesitate to develop interest in other areas such as Mobile Development.
