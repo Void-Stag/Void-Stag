@@ -5,7 +5,7 @@ I have a huge interest in different areas of technology and would love to experi
 I am interested in both Web Development and Software Development, although I will not hesitate to develop interest in other areas such as Mobile Development.
 
 ## 🌱More About Me!
-Now I have graduated, I am currently toutching up on my learnt skills by re-developing some DMU projects. At the same time, I am broadening my skills by learning new tools to assit me in improving and creating better projects. 
+Now I have graduated, I am currently touching up on my learnt skills by re-developing some University projects. At the same time, I am broadening my skills by learning new tools to assit me in improving and creating better projects. 
 
 I am currently seeking a graduate job in the Tech industry as I am thrilled to apply my skills into practice and network with other people.
 
