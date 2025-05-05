@@ -1,47 +1,50 @@
 # 👋 Hi, I’m Heather
-I am an Applied Computing(with Hons) Graduate. I studied at De Montfort University.
+I'm a recent First-Class BSc Applied Computing graduate from De Montfort University.
 
-I have a huge interest in different areas of technology and would love to experience it hands on.
-I am interested in both Web Development and Software Development, although I will not hesitate to develop interest in other areas such as Mobile Development.
+I have a passion for technology and eager to apply my skills while approaching challenges with new solutions. I'm actively seeking for graduate or entry-level roles in tech, preferably in:
+- Web Development
+- Full Stack Development
+- Database & Analytical
 
-## 🌱More About Me!
-Now I have graduated, I am currently touching up on my learnt skills by re-developing some University projects. At the same time, I am broadening my skills by learning new tools to assit me in improving and creating better projects. 
+Other tech areas have piqued my interest, which will challenge my problem solving and adaptability. I am enthusiastic to collaborate and excel with an innovative team.
 
-I am currently seeking a graduate job in the Tech industry as I am thrilled to apply my skills into practice and network with other people.
+## 🛠️ Current Skills
 
 ### Programming Languages
-- JavaScript
-- C#
-- Python
-- Kotlin
-
- 
-### Markup Languages/ Other
-- HTML
-- CSS
-- SQL
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-### Libraries & Frameworks
+### Frameworks/ Libraries
 - Flask
-- Tkinter
 - Bootstrap
 
-### Database Tools
-- Oracle SQL
+### Databases
 - SQLite
+- Oracle SQL
 
-### API
-- REST API
+### Other
+- Rest APIs
 
-### Skills
-- Database management
-- Web Development
-- Android App Devlopment
-- Hardware Maintenance
+## 🌱 What I'm working on:
+Currently working on a wiki website to explain in-depth how each GitHub Project here was built and how they function - See GitHub Project Wiki for current progress.
 
-## :speech_balloon: Reach out to me on [LinkedIn](https://www.linkedin.com/in/heathersmith122/)
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Frameworks/Libraries
+- Node.js
+- React
+- Docusaurus
+- Astro
+
+## :speech_balloon: Reach out to me 
+Feel free to drop me a message on
+[LinkedIn](https://www.linkedin.com/in/heathersmith122/)
+or via
+[Email](heather@heavenly-monkey.com)
 
 <!---
 Void-Stag/Void-Stag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
