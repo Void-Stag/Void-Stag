@@ -28,7 +28,9 @@ Other tech areas have piqued my interest, which will challenge my problem solvin
 - Rest APIs
 
 ## 🌱 What I'm working on:
-Currently working on a wiki website to explain in-depth how each GitHub Project here was built and how they function - See GitHub Project Wiki for current progress.
+I'm currently working on:
+- A wiki website to explain in-depth how each GitHub Project here was built and how they function - See GitHub Project Wiki Repo for current progress.
+- A portfolio website to contain some information about me, my skills, achievements and links to other affiliated websites.
 
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
