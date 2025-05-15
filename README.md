@@ -29,7 +29,7 @@ Other tech areas have piqued my interest, which will challenge my problem solvin
 
 ## 🌱 What I'm working on:
 I'm currently working on:
-- A wiki website to explain in-depth how each GitHub Project here was built and how they function - See GitHub Project Wiki Repo for current progress.
+- A wiki website to explain in-depth how each GitHub Project here was built and how they function.
 - A portfolio website to contain some information about me, my skills, achievements and links to other affiliated websites.
 
 ### Programming Languages
