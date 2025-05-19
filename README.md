@@ -5,8 +5,9 @@ I have a passion for technology and eager to apply my skills while approaching c
 - Web Development
 - Full Stack Development
 - Database & Analytical
+- Software Engineering
 
-Other tech areas have piqued my interest, which will challenge my problem solving and adaptability. I am enthusiastic to collaborate and excel with an innovative team.
+I am interested in other tech areas, which will challenge my problem solving and adaptability. I am enthusiastic to collaborate and excel with an innovative team.
 
 ## 🛠️ Current Skills
 
