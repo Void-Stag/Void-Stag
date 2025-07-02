@@ -32,6 +32,7 @@ I am interested in other tech areas, which will challenge my problem solving and
 I'm currently working on:
 - A wiki website to explain in-depth how each GitHub Project here was built and how they function.
 - A portfolio website to contain some information about me, my skills, achievements and links to other affiliated websites.
+- Utilising Gitea for a local storage git repository system.
 
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
