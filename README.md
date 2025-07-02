@@ -32,7 +32,7 @@ I am interested in other tech areas, which will challenge my problem solving and
 I'm currently working on:
 - A wiki website to explain in-depth how each GitHub Project here was built and how they function.
 - A portfolio website to contain some information about me, my skills, achievements and links to other affiliated websites.
-- Utilising Gitea for a local storage git repository system.
+- Utilising Gitea for a local storage git repository system and local wiki hosting.
 
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,6 +43,9 @@ I'm currently working on:
 - React
 - Docusaurus
 - Astro
+
+### Other
+- Gitea
 
 ## :speech_balloon: Reach out to me 
 Feel free to drop me a message on
