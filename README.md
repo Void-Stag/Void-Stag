@@ -39,9 +39,9 @@ I'm currently working on:
 ### Other
 - Gitea
 
-## :speech_balloon: Reach out to me 
+<!-- ## :speech_balloon: Reach out to me 
 Feel free to drop me a message on
-[LinkedIn](https://www.linkedin.com/in/heathersmith122/)
+[LinkedIn]() --->
 
 <!---
 Void-Stag/Void-Stag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
