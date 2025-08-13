@@ -1,13 +1,5 @@
-# 👋 Hi, I’m Heather
-I'm a recent First-Class BSc Applied Computing graduate from De Montfort University.
-
-I have a passion for technology and eager to apply my skills while approaching challenges with new solutions. I'm actively seeking for graduate or entry-level roles in tech, preferably in:
-- Web Development
-- Full Stack Development
-- Database & Analytical
-- Software Engineering
-
-I am interested in other tech areas, which will challenge my problem solving and adaptability. I am enthusiastic to collaborate and excel with an innovative team.
+# About me
+I'm a First-Class BSc Applied Computing graduate from De Montfort University.
 
 ## 🛠️ Current Skills
 
@@ -50,8 +42,6 @@ I'm currently working on:
 ## :speech_balloon: Reach out to me 
 Feel free to drop me a message on
 [LinkedIn](https://www.linkedin.com/in/heathersmith122/)
-or via
-[Email](heather@heavenly-monkey.com)
 
 <!---
 Void-Stag/Void-Stag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
